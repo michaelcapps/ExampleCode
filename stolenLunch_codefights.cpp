@@ -26,6 +26,7 @@ std::string stolenLunch(std::string note) {
     return note;
 }
 
+// One test case from the comments above
 int main(){
 
     std::string note = "you'll n4v4r 6u4ss 8t: cdja";
